@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MJ</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-13T03:25:53.087Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Sun Guangning</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《边城》读有所感</title>
+    <link href="http://yoursite.com/2020/03/11/biancheng/"/>
+    <id>http://yoursite.com/2020/03/11/biancheng/</id>
+    <published>2020-03-11T15:29:49.000Z</published>
+    <updated>2020-03-13T03:25:53.087Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="世间若有双全法，不负亲人不负卿"><a href="#世间若有双全法，不负亲人不负卿" class="headerlink" title="世间若有双全法，不负亲人不负卿"></a>世间若有双全法，不负亲人不负卿</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="reading" scheme="http://yoursite.com/tags/reading/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>春风十里不如你</title>
+    <link href="http://yoursite.com/2020/03/09/music/"/>
+    <id>http://yoursite.com/2020/03/09/music/</id>
+    <published>2020-03-08T17:01:10.000Z</published>
+    <updated>2020-03-09T04:48:56.535Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="春风十里不如你"><a href="#春风十里不如你" class="headerlink" title="春风十里不如你"></a>春风十里不如你</h2><p>我在鼓楼的夜色中为你唱花香自来</p>        <div id="aplayer-LcTGfJpV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-LcTGfJpV"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "春风十里不如你",              author: "宁",              url: "http://114.115.136.120/music/ning/%e6%98%a5%e9%a3%8e%e5%8d%81%e9%87%8c%e4%b8%8d%e5%a6%82%e4%bd%a0.m4a",              pic: "http://114.115.136.120/music/ning/timg.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
