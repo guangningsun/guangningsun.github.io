@@ -97,10 +97,15 @@ hr {
   border: 2px dashed #a4d8fa;
   background: #fff;
 }
-hr:hover:before {
-  left: calc(95% - 20px);
-}
-hr:before {
+# ## add by MJ for removing the:hover:before,
+# ## animation of hrline:hover:before,
+# 2020:hover:before,
+#   ## add by MJ for removing the:before:before,
+#   ## animation of hrline:before:before,
+#   2020:before:before,
+## add by MJ for removing the #     left: calc(95% - 20px):before,
+## animation of hrline #     left: calc(95% - 20px):before,
+2020 #     left: calc(95% - 20px):before {
   position: absolute;
   top: -10px;
   left: 5%;
