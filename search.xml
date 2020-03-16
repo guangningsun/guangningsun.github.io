@@ -63,12 +63,12 @@ Mansion，点燃的是回忆，点燃的是希冀。
 谁来将它带走呢
 只好把岁月化成歌
 留在山河</code></pre>
-        <div id="aplayer-RkirQqLA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-AkLISpaE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-RkirQqLA"),
+            element: document.getElementById("aplayer-AkLISpaE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
