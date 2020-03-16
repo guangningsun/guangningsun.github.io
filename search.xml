@@ -46,16 +46,29 @@ Mansion，点燃的是回忆，点燃的是希冀。
     <entry>
       <title><![CDATA[春风十里不如你]]></title>
       <url>/2020/03/09/music/</url>
-      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="春风十里不如你"><a href="#春风十里不如你" class="headerlink" title="春风十里不如你"></a>春风十里不如你</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line">我在二环路的里边想着你</span><br><span class="line"></span><br><span class="line">你在远方的山上春风十里</span><br><span class="line"></span><br><span class="line">今天的风吹向你下了雨</span><br><span class="line"></span><br><span class="line">我说所有的酒都不如你</span><br><span class="line"></span><br><span class="line">我在鼓楼的夜色中</span><br><span class="line"></span><br><span class="line">为你唱花香自来</span><br><span class="line"></span><br><span class="line">在别处沉默相遇和期待</span><br><span class="line"></span><br><span class="line">飞机飞过车水马龙的城市</span><br><span class="line"></span><br><span class="line">千里之外不离开</span><br><span class="line"></span><br><span class="line">把所有的春天</span><br><span class="line"></span><br><span class="line">都揉进了一个清晨</span><br><span class="line"></span><br><span class="line">把所有停不下的言语变成秘密</span><br><span class="line"></span><br><span class="line">关上了门</span><br><span class="line"></span><br><span class="line">莫名的情愫啊请问</span><br><span class="line"></span><br><span class="line">谁来将它带走呢</span><br><span class="line"></span><br><span class="line">只好把岁月化成歌</span><br><span class="line"></span><br><span class="line">留在山河</span><br></pre></td></tr></table></figure>
-
-<iframe type="music" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://114.115.136.120/music/ning/%e6%98%a5%e9%a3%8e%e5%8d%81%e9%87%8c%e4%b8%8d%e5%a6%82%e4%bd%a0.m4a"></iframe>
-<!-- 
-        <div id="aplayer-mIgJLJOm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre><code>我在二环路的里边想着你
+你在远方的山上春风十里
+今天的风吹向你下了雨
+我说所有的酒都不如你
+我在鼓楼的夜色中
+为你唱花香自来
+在别处沉默相遇和期待
+飞机飞过车水马龙的城市
+千里之外不离开
+把所有的春天
+都揉进了一个清晨
+把所有停不下的言语变成秘密
+关上了门
+莫名的情愫啊请问
+谁来将它带走呢
+只好把岁月化成歌
+留在山河</code></pre>
+        <div id="aplayer-esUqHEPl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-mIgJLJOm"),
+            element: document.getElementById("aplayer-esUqHEPl"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -69,7 +82,7 @@ Mansion，点燃的是回忆，点燃的是希冀。
           });
           window.aplayers || (window.aplayers = []);
           window.aplayers.push(ap);
-        </script> -->
+        </script>
 ]]></content>
       
         
