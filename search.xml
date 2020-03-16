@@ -21,12 +21,12 @@
       <url>/2020/03/09/music/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="春风十里不如你"><a href="#春风十里不如你" class="headerlink" title="春风十里不如你"></a>春风十里不如你</h2><p>我在鼓楼的夜色中为你唱花香自来</p>
 
-        <div id="aplayer-VDeccyio" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-LfHpfGkO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-VDeccyio"),
+            element: document.getElementById("aplayer-LfHpfGkO"),
             narrow: false,
             autoplay: false,
             showlrc: false,
