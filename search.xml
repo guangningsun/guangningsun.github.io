@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[《边城》读有所感]]></title>
+      <url>/2020/03/11/biancheng/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="世间若有双全法，不负亲人不负卿"><a href="#世间若有双全法，不负亲人不负卿" class="headerlink" title="世间若有双全法，不负亲人不负卿"></a>世间若有双全法，不负亲人不负卿</h3>]]></content>
+      
+        
+        <tags>
+            
+            <tag> reading </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[春风十里不如你]]></title>
+      <url>/2020/03/09/music/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="春风十里不如你"><a href="#春风十里不如你" class="headerlink" title="春风十里不如你"></a>春风十里不如你</h2><p>我在鼓楼的夜色中为你唱花香自来</p>
+
+        <div id="aplayer-foJjbxKs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-foJjbxKs"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "春风十里不如你",
+              author: "宁",
+              url: "http://114.115.136.120/music/ning/%e6%98%a5%e9%a3%8e%e5%8d%81%e9%87%8c%e4%b8%8d%e5%a6%82%e4%bd%a0.m4a",
+              pic: "http://114.115.136.120/music/ning/timg.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
