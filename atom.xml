@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-13T03:25:53.087Z</updated>
+  <updated>2020-03-16T16:35:26.579Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>《边城》读有所感</title>
+    <title>《边城》</title>
     <link href="http://yoursite.com/2020/03/11/biancheng/"/>
     <id>http://yoursite.com/2020/03/11/biancheng/</id>
     <published>2020-03-11T15:29:49.000Z</published>
-    <updated>2020-03-13T03:25:53.087Z</updated>
+    <updated>2020-03-16T16:35:26.579Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="世间若有双全法，不负亲人不负卿"><a href="#世间若有双全法，不负亲人不负卿" class="headerlink" title="世间若有双全法，不负亲人不负卿"></a>世间若有双全法，不负亲人不负卿</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="reading" scheme="http://yoursite.com/tags/reading/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《且听风吟》</title>
+    <link href="http://yoursite.com/2020/03/11/qietingfengyin/"/>
+    <id>http://yoursite.com/2020/03/11/qietingfengyin/</id>
+    <published>2020-03-11T15:29:49.000Z</published>
+    <updated>2020-03-16T17:11:44.535Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre><code>叮咚，看了下时间，已经凌晨 00:30了，来了一条微信，打开手机看了下，是jingchao发来</code></pre><p>的一张照片，正是首页的配图，“晚上收拾屋子，翻出来这个Cosmic Mansion的香薰蜡烛，感受一下。”<br>jingchao说。这是几年前一个妹妹送给他的圣诞礼物，野兽派的香薰，从来没拆过，也是保留着那一份<br>回忆，前一阵这个妹妹结婚了，唏嘘间，jingchao感叹时光荏苒，也不禁让我心头微颤。<br>     我点了一支烟，透过烟雾，台灯的光线曲折了电脑荧幕，我也感叹这日子，jingchao点燃的不只是<br>Cosmic Mansion，点燃的是回忆，点燃的是希冀。</p><pre><code>深吸了一口烟，看到今天刚读完的那本村上的《且听风吟》，其中 N.E.B 广播电台的片段，村上</code></pre><p>写到，“十年以后，如果还能记得这个节目，记得我放的唱片和我这个人，那么也请想起我此时说的这句话”。</p><pre><code>翻开电子邮箱，至今还保留着2006年未曾发出去过的，给黑龙江岁月之声风哥，小金的那封信，10多年已过</code></pre><p>我还记得那些人，那些事情么？我熄灭了烟，看着jingchao发来的图片，每个人都有属于自己的一片森林，迷失<br>的人迷失了，相逢的人会再相逢，愿jingchao和我心中的那团火不会灭，会永远热烈地燃下去！</p>]]></content>
     
     <summary type="html">
     
@@ -45,9 +69,9 @@
     <link href="http://yoursite.com/2020/03/09/music/"/>
     <id>http://yoursite.com/2020/03/09/music/</id>
     <published>2020-03-08T17:01:10.000Z</published>
-    <updated>2020-03-09T04:48:56.535Z</updated>
+    <updated>2020-03-16T16:34:58.508Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="春风十里不如你"><a href="#春风十里不如你" class="headerlink" title="春风十里不如你"></a>春风十里不如你</h2><p>我在鼓楼的夜色中为你唱花香自来</p>        <div id="aplayer-LfHpfGkO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-LfHpfGkO"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "春风十里不如你",              author: "宁",              url: "http://114.115.136.120/music/ning/%e6%98%a5%e9%a3%8e%e5%8d%81%e9%87%8c%e4%b8%8d%e5%a6%82%e4%bd%a0.m4a",              pic: "http://114.115.136.120/music/ning/timg.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="春风十里不如你"><a href="#春风十里不如你" class="headerlink" title="春风十里不如你"></a>春风十里不如你</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line">我在二环路的里边想着你</span><br><span class="line"></span><br><span class="line">你在远方的山上春风十里</span><br><span class="line"></span><br><span class="line">今天的风吹向你下了雨</span><br><span class="line"></span><br><span class="line">我说所有的酒都不如你</span><br><span class="line"></span><br><span class="line">我在鼓楼的夜色中</span><br><span class="line"></span><br><span class="line">为你唱花香自来</span><br><span class="line"></span><br><span class="line">在别处沉默相遇和期待</span><br><span class="line"></span><br><span class="line">飞机飞过车水马龙的城市</span><br><span class="line"></span><br><span class="line">千里之外不离开</span><br><span class="line"></span><br><span class="line">把所有的春天</span><br><span class="line"></span><br><span class="line">都揉进了一个清晨</span><br><span class="line"></span><br><span class="line">把所有停不下的言语变成秘密</span><br><span class="line"></span><br><span class="line">关上了门</span><br><span class="line"></span><br><span class="line">莫名的情愫啊请问</span><br><span class="line"></span><br><span class="line">谁来将它带走呢</span><br><span class="line"></span><br><span class="line">只好把岁月化成歌</span><br><span class="line"></span><br><span class="line">留在山河</span><br></pre></td></tr></table></figure><iframe type="music" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://114.115.136.120/music/ning/%e6%98%a5%e9%a3%8e%e5%8d%81%e9%87%8c%e4%b8%8d%e5%a6%82%e4%bd%a0.m4a"></iframe><!--         <div id="aplayer-wbIVihKp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-wbIVihKp"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "春风十里不如你",              author: "宁",              url: "http://114.115.136.120/music/ning/%e6%98%a5%e9%a3%8e%e5%8d%81%e9%87%8c%e4%b8%8d%e5%a6%82%e4%bd%a0.m4a",              pic: "http://114.115.136.120/music/ning/timg.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script> -->]]></content>
     
     <summary type="html">
     
