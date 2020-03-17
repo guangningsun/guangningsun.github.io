@@ -3,6 +3,33 @@
   
     
     <entry>
+      <title><![CDATA[角楼]]></title>
+      <url>/2020/03/18/jiaolou/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre><code>    苗处，毕业时候和jingchao我们仨约定好去北京找工作发展，每天我们仨在群里互相
+鼓励，互相诉说着今天面试留到了哪些妹子的信息，在人大的食堂里，在漫咖啡的角落里，
+在高铁站的候车室里，在母校的图书馆、健身房里，都有我们留下的足迹和故事。
+
+    一路走来，一如以往的我们，jingchao燃尽了回忆，苗处也把他与北银妹妹的故事留在
+北京的胡同儿里，留在了马航的飞机上，马来西亚的床上。
+
+    四年没回过北京了，那天在群里不经意说了自己有些想北京的春秋，想北京的红黄，想北京
+的城墙，想下雪的角楼。第二天，苗处值班，下了班跟群里说：“我去满足翔哥的愿望”，苗处住
+南城，为了角楼黄昏的景色，逆着中轴线拎着自己的SONY 7RM3，冒着疫情风险，和一群痴迷
+摄影的大爷一起拍了一段下午的角楼，就是封面的那张照片。
+
+    看完后那些年的故事，一幕幕，一点点划过脑海，带着那一丝丝的忧伤和喜感。苗处你的故事
+会在北京的胡同儿里、鼓楼大街的拐角、你家秋天的床上重新续写下去。</code></pre>]]></content>
+      
+        
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[《且听风吟》]]></title>
       <url>/2020/03/17/qietingfengyin/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre><code>    叮咚，看了下时间，已经凌晨 00:30了，来了一条微信，打开手机看了下，是jingchao发来的一张照片，
@@ -23,7 +50,7 @@ Mansion，点燃的是回忆，点燃的是希冀。
         
         <tags>
             
-            <tag> reading </tag>
+            <tag> 读书 </tag>
             
         </tags>
         
@@ -37,7 +64,7 @@ Mansion，点燃的是回忆，点燃的是希冀。
         
         <tags>
             
-            <tag> reading </tag>
+            <tag> 读书 </tag>
             
         </tags>
         
@@ -63,12 +90,12 @@ Mansion，点燃的是回忆，点燃的是希冀。
 谁来将它带走呢
 只好把岁月化成歌
 留在山河</code></pre>
-        <div id="aplayer-AkLISpaE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-BEZUrFVH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-AkLISpaE"),
+            element: document.getElementById("aplayer-BEZUrFVH"),
             narrow: false,
             autoplay: false,
             showlrc: false,
